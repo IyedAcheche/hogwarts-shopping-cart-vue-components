@@ -1,28 +1,22 @@
-# hogwarts-shopping-cart-vue-components
+# Hogwarts Shopping Cart
 
-This template should help get you started developing with Vue 3 in Vite.
+A Vue.js application for managing a shopping cart of magical items from the wizarding world.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Browse magical items from the wizarding world
+- Add items to your shopping cart
+- Manage quantities in real-time
+- View order summary with total cost
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Setup
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Build
 
 ```sh
 npm run build

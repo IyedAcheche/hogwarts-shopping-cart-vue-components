@@ -1,6 +1,6 @@
 {
-  "name": "hogwarts-shopping-cart-vue-components",
-  "version": "0.0.0",
+  "name": "hogwarts-shopping-cart",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
